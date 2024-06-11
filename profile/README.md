@@ -1,24 +1,27 @@
+![logo](https://github.com/98OO/.github/assets/70826982/54480efd-ddee-4f30-a193-f1036494d11d)
+
 
 # Colla
 
  [![Chromatic](https://github.com/98OO/colla-frontend/actions/workflows/chromatic.yml/badge.svg)](https://github.com/98OO/colla-frontend/actions/workflows/chromatic.yml)
+ [![Continuous Deploy](https://github.com/98OO/colla-backend/actions/workflows/continuous-deploy.yml/badge.svg)](https://github.com/98OO/colla-backend/actions/workflows/continuous-deploy.yml)
+
 
 <br />
 
 **대학생을 위한 팀 프로젝트 관리 플랫폼, Colla**
 
 파편화된 프로젝트 협업 도구를 하나의 플랫폼에서!
+### 👉🏻 [Colla 바로가기](http://colla.so/)
 
-### → [Colla 바로가기](http://colla.so/)
-
-<br />
-<br />
-
-## ✨ Features
-<img width="2241" alt="feature" src="https://github.com/98OO/.github/assets/70826982/ddaf52e8-41ed-49b5-9588-666dc20b8197">
 
 <br />
 <br />
+
+---
+
+![intro](https://github.com/98OO/.github/assets/70826982/7c9e9e89-caea-4efd-9725-fee5d9fadf73)
+
 
 ## 🧑‍💻 Tech Stack
 <img width="2064" alt="stack" src="https://github.com/98OO/.github/assets/70826982/65bad794-ad3a-48ff-a489-867f7cef5aaa">
